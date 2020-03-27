@@ -1,0 +1,23 @@
+|***************************ALERT TAILLE DU DISQUE SUPERIEUR OU EGAL 80%***************************|
+
+Le 2018-12-15
+à 16:48:24 
+
+
+Sys. de fichiers Taille Utilisé Dispo Uti% Monté sur
+udev               7,8G       0  7,8G   0% /dev
+tmpfs              1,6G    9,1M  1,6G   1% /run
+/dev/sda6           23G     21G  1,5G  94% /
+tmpfs              7,9G    171M  7,7G   3% /dev/shm
+tmpfs              5,0M    4,0K  5,0M   1% /run/lock
+tmpfs              7,9G       0  7,9G   0% /sys/fs/cgroup
+/dev/sda5           92G     33G   58G  37% /home
+/dev/sda1          323M     73M  234M  24% /boot
+/dev/sda8          482G    101G  357G  23% /media/mesprojets
+/dev/sda9          319G    265G   39G  88% /media/mesdonnees
+tmpfs              1,6G    4,0K  1,6G   1% /run/user/109
+tmpfs              1,6G     24K  1,6G   1% /run/user/1000
+total              943G    419G  481G  47% -
+
+
+La machine  sdjt est superieur ou egal 80% d'espace utilisé
